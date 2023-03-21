@@ -41,4 +41,4 @@ console.log("\nStatic initialization block way:");
 const d3 = new MongoDBDatabase();
 console.log(d3.data);
 const d4 = new MongoDBDatabase();
-console.log(d3.data);
+console.log(d4.data);
